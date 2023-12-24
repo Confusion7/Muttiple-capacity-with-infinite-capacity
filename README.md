@@ -31,6 +31,10 @@ DEVELOPED BY : MOHAMMED SAAJID S
 REGISTER NO:  212223240093
 
 
+![prog](https://github.com/Confusion7/Muttiple-capacity-with-infinite-capacity/assets/141727149/bc5437a0-9965-4dca-83e2-4af22ff698eb)
+
+
+
 ## Output :
 
 ![output](https://github.com/Confusion7/Muttiple-capacity-with-infinite-capacity/assets/141727149/6cd2cc33-67ec-4ede-8db8-4752937e9a45)
